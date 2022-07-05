@@ -1,0 +1,21 @@
+@font-face{font-family:font_1;src:url('https://s3-ap-southeast-1.amazonaws.com/assets.limetray.com/assets/themes/bueno_3_new_3/fonts/HelveticaNeueLTStd-UltLtEx.otf');}
+@font-face{font-family:font_2;src:url('https://s3-ap-southeast-1.amazonaws.com/assets.limetray.com/assets/themes/bueno_3_new_3/fonts/HelveticaNeueLTStd-Lt.otf');}
+.bg_color_a, .nav-list>li>a.nav-button, .header-wrapper{background:rgb(232, 200, 5)!important;}
+.color_a, .off-canvas-list li a, .menu-nav-bar li a:hover, .button, .scroll-down i,
+.nav-list>li>a.nav-button.order-button , .header-mobile>ul>li>a.nav-button, .instagram-home .owl-nav i,
+.contact-icon i, .contact-form-close i, .contact-head h3.color_a{color:rgb(232, 200, 5) !important;}
+.color_b, .nav-list>li>a, .header-mobile>ul>li>a, .menu-nav-bar li a,
+.scroll-to-top a{color:#000!important;}
+.bg_color_b, .button, .contact-section, .nav-list>li>a.nav-button.order-button, .scroll-down,
+.gallery-slider .orbit-container .orbit-prev, .gallery-slider .orbit-container .orbit-next,
+.instagram-home .owl-prev, .instagram-home .owl-next, .contact-section, .header-mobile>ul>li>a.nav-button{background:#000 !important;}
+.bg_color_c{background:#008cba;}
+.color_d, .page-head>h3, .section-head h2, .more-link, .read-more, .less-link, .reviews-tabs .tabs li a{color:rgb(70,70,70)!important;}
+.bdr_color_d, hr{border-color:rgb(70,70,70) !important;}
+.font_1, .nav-list>li>a, .page-head>h3, .section-head h2, .menu-category-name{font-family:font_1;}
+.font_2, .home-menu-item-name, .home-menu-item-desc, .menu-nav-bar li a,
+.button, .gallery-slider .orbit-container .orbit-slides-container>* .orbit-caption, .menu-category-desc,
+.menu-sub-category-name, .menu-sub-category-desc,
+.menu-item-price, .menu-item-name, .menu-item-desc, .sub-menu-item-name, .menu-pagination li a,
+.read-more, .read-less, .read-more a, .read-less a, .on-hover-text{font-family:font_2 !important;}
+.font_size_1, body{font-size:16px;}

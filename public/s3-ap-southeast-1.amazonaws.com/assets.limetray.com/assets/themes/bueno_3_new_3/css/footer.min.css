@@ -1,0 +1,24 @@
+footer{height:50px;background:#fff;}
+.new-footer {position: relative;z-index: 2}
+.scroll-to-top{display:none;cursor:pointer;position:fixed;bottom:10%;right:20px;z-index:100;}
+.scroll-to-top a{display:block;padding:8px 7px 10px;border:1px solid;font-size:18px !important;color:#000;}
+.scroll-to-top i{}
+.footer-social{}
+.footer-social a img, .we-are-social a img{width:30px;}
+.footer-social a{line-height:50px;float:left;}
+.footer-social a i{margin:0 5px;padding:3px;}
+.footer-social div#___follow_0{margin:15px 10px !important;display:inline-block;clear:both;}
+.footer-contact{line-height:50px;font-size:0.75rem;color:#fff;}
+@media all and (max-width:640px){.scroll-to-top{margin:6px 0 0 0;}
+.footer-social a i{padding:5px;}
+.scroll-to-top a{font-size:15px !important;}
+footer{height:40px;}
+.footer-social a{line-height:40px;}
+aside.right-off-canvas-menu{margin-bottom:50px;}
+}
+.footer_mobile{height:50px;position:fixed;bottom:0;width:100%;z-index:100;}
+.footer_mobile i{line-height:50px;padding:0 30px;}
+.footer_mobile li{padding-bottom:0 !important;}
+#numbersModal{min-height:0px !important;position:fixed !important;top:auto !important;bottom:0 !important;padding:0 !important;}
+#numbersModal a{color:inherit !important;font-size:1.4rem !important;display:block !important;box-shadow:-1px -1px 1px !important;padding:6px !important;}
+#numbersModal a i.fa{margin-right:8px !important;font-family:'FontAwesome' !important;}

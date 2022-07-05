@@ -1,0 +1,26 @@
+.locate-head h3{}
+.address-details{display:inline-block;margin-bottom:50px;width:70%;min-height:280px;}
+a.get-direction-btn.button{padding:10px;}
+.address-head{margin-bottom:5px;}
+.address{margin-bottom:30px;width:45%;}
+.address h6{font-size:0.8rem;}
+.phone-no{margin-bottom:5px;}
+.phone-no h6{padding-bottom:3px;font-size:0.8rem;}
+.address-details.panel a{font-size:0.9rem;}
+.opening-hours{margin-bottom:20px;}
+.opening-hours h6{margin:0;font-size:0.8rem;}
+.email-id{margin-bottom:20px;}
+.email-id h6{margin:0;font-size:0.8rem;}
+.locate-head h3{text-align:left;}
+.contact-head h3{text-align:left;}
+.contact-wrapper{}
+form.contact-form{margin-bottom:0;}
+.contact-form-close{float:right;cursor:pointer;}
+.contact-icon i, .contact-form-close i{color:#fff;line-height:0.8;}
+@media all and (max-width:1024px){.address-details{width:100%;}
+}
+@media all and (max-width:640px){.contact-wrapper{width:100% !important;border:none;padding-left:0.9375rem;}
+.contact-head h3{text-align:center;}
+.contact-content{text-align:center;}
+.contact-section{z-index:1234;}
+}
